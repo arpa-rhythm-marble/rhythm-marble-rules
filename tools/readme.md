@@ -14,3 +14,14 @@
     - 판때기: Vue.TS
     - 주사위: HTML5
    
+## 주사위
+- [특수 주사위](https://sheperedingsheep.github.io/html_dice_with_various/) by [비상식량](https://github.com/sheperdingsheep/html_dice_with_various)
+  - 작동하는 기능
+    1. 기본 주사위 : -1, 1, 2, 3을 냅니다
+    2. 특수 주사위 : 특수한 주사위, 더 특수한 효과
+    3. 더블 주사위 : 무인도에선 더블이 나와야 탈출!?
+  - 테스트 중인 기능
+    1. 미니 더블 주사위 : 기본 주사위 대체용
+  - 기반 언어
+    - HTML5 + CSS3
+    - JavaScript
